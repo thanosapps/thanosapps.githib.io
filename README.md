@@ -1,2 +1,2 @@
-# thanosapps.githib.io
+# www.thanosapps.com
 Thanosapps main page.
